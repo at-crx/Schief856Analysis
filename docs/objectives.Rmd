@@ -1,0 +1,11 @@
+---
+title: "Feinberg856 Objectives"
+output: github_document
+---
+
+<!-- objectives.md is generated from the RMARKDOWN file, objectives.Rmd. 
+Please edit that file. -->
+
+This document should contain the study objectives section for Feinberg856.
+
+Write project objectives here. Don't use headers.

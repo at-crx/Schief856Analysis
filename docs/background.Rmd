@@ -1,0 +1,11 @@
+---
+title: "Feinberg856 Background"
+output: github_document
+---
+
+<!-- background.md is generated from the RMARKDOWN file, background.Rmd. 
+Please edit that file. -->
+
+This document should contain the study background section for Feinberg856.
+
+Write project background here. Don't use headers.
